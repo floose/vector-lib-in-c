@@ -11,4 +11,4 @@ It is part of my own exercise on signal processing, as well an old attempt of cr
 
 ## Makefile
 
-To run the code, execute the commands on the Makefile. Credits to Nicomendes for their great Makefile creation tool ([link here](https://nicomedes.assistedcoding.eu/#/dashboard))
+To run the code, execute the commands on the Makefile. Credits to Nicomedes for their great Makefile creation tool ([link here](https://nicomedes.assistedcoding.eu/#/dashboard))
